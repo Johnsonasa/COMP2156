@@ -1,12 +1,13 @@
 {
   "name": "comp2156",
   "version": "1.0.0",
-  "description": "",
+  "description": "DevOps Lab Exerciseions",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\""
+    "test": "echo \"Error: no test specified\"",
+    "ci": "echo \"No ci configured\""
   },
   "keywords": [],
-  "author": "",
+  "author": "Johnson Asa",
   "license": "ISC"
 }
