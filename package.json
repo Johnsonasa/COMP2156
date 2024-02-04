@@ -1,3 +1,4 @@
+
 {
   "name": "comp2156",
   "version": "1.0.0",
@@ -8,6 +9,6 @@
     "ci": "echo \"Error: no ci configured\""
   },
   "keywords": [],
-  "author": "Johnson Asa",
+  "author": "Johnson asa",
   "license": "ISC"
 }
