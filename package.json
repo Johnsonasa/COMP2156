@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "DevOps Lab Exerciseions",
   "main": "index.js",
-  "scripts": {
+  "homepage": "https://johnsonasa.github.io/COMP2156/",
+  "scripts" : {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "predeploy": "npm run build",
